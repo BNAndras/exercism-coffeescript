@@ -644,6 +644,14 @@
         "difficulty": 2
       },
       {
+        "slug": "meetup",
+        "name": "Meetup",
+        "uuid": "40eaac1b-d40f-44f6-96a8-d23d46e3660c",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 8
+      },
+      {
         "slug": "minesweeper",
         "name": "Minesweeper",
         "uuid": "fe341c5e-0292-455f-93be-1ffb8f0b4b3b",
